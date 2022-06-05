@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".SplashActivity">
+
+    <TextView
+        android:id="@+id/tvIlens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I-LENS"
+        android:textAllCaps="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_48sdp"
+        android:textStyle="bold"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_8sdp"
+        android:layout_height="@dimen/_240sdp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/splash2"/>
+
+    <TextView
+        android:id="@+id/tvScanning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Scanning"
+        android:textSize="@dimen/_32sdp"
+        android:layout_margin="@dimen/_8sdp"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textStyle="bold"
+        android:textColor="#FFC107"/>
+
+</LinearLayout>

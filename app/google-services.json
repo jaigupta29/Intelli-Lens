@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245509905357",
+    "project_id": "i-lens-project",
+    "storage_bucket": "i-lens-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245509905357:android:5d00d15daa013fac864284",
+        "android_client_info": {
+          "package_name": "com.example.smartlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245509905357-2c5go90lr3h591681ib1g852thre2kgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwmKp15s7DQ5FPH74Rax236bURL3EA48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245509905357-2c5go90lr3h591681ib1g852thre2kgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
