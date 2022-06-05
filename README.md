@@ -1,5 +1,5 @@
-# SmartLens
-SmartLens uses Google's ML Kit for Barcode scanning, Face recognition, Text recognition, and Image labeling.
+# Intelli-Lens
+Intelli-Lens uses Google's ML Kit for Barcode scanning, Face recognition, Text recognition, and Image labeling.
 
 # How to implement?
 
@@ -47,4 +47,4 @@ If anyone needs the apk please, create an issue.
     
 ## Support
 
-For support, email akshatrko@gmail.com .
+For support, email jaiguptaa29@gmail.com .
